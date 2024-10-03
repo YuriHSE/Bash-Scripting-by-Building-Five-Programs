@@ -30,3 +30,11 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 echo hello bash
+l
+-l
+help
+pwd
+ls --color=auto
+ls --color=auto
+clear
+touch questionnaire.sh
