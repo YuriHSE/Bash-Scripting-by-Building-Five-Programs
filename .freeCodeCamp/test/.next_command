@@ -40,3 +40,5 @@ clear
 touch questionnaire.sh
 ls --color=auto
 sh questionnaire.sh
+bash Using sh to run your script uses the shell interpreter. Run your script again with bash questionnaire.sh to use the bash interpreter. bash stands for bou
+bash questionnaire.sh
