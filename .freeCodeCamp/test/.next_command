@@ -38,3 +38,4 @@ ls --color=auto
 ls --color=auto
 clear
 touch questionnaire.sh
+ls --color=auto
