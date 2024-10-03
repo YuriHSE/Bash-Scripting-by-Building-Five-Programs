@@ -52,3 +52,5 @@ clear
 sh questionnaire.sh
 bash questionnaire.sh
 ./questionnaire.sh
+-l
+ls --color=auto -l
