@@ -42,3 +42,7 @@ ls --color=auto
 sh questionnaire.sh
 bash Using sh to run your script uses the shell interpreter. Run your script again with bash questionnaire.sh to use the bash interpreter. bash stands for bou
 bash questionnaire.sh
+cat The output was the same. There are many interpreters which may not give the output you expect. Find out where the bash interpreter is located by entering which bash in th
+cat questionnaire.sh
+clear
+which bash
