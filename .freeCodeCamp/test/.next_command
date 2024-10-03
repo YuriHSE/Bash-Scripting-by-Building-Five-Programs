@@ -49,3 +49,6 @@ which bash
 pwd bash
 __vsc_prompt_cmd_original
 clear
+sh questionnaire.sh
+bash questionnaire.sh
+./questionnaire.sh
