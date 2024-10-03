@@ -46,3 +46,6 @@ cat The output was the same. There are many interpreters which may not give the 
 cat questionnaire.sh
 clear
 which bash
+pwd bash
+__vsc_prompt_cmd_original
+clear
