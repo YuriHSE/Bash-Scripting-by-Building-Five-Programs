@@ -198,3 +198,4 @@ help test
 [[4 -le 5]]
 __vsc_prompt_cmd_original
 [[ 4 -le 5 ]]
+echo $?
