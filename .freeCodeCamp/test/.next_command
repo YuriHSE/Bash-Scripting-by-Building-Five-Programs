@@ -244,3 +244,4 @@ help chmod
 man chmod
 __vsc_prompt_cmd_original
 chmod +x bingo.sh
+./bingo.sh
