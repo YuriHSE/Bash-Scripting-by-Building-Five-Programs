@@ -195,3 +195,6 @@ help [[ expression ]]
 test help
 help test
 ./countdown.sh 5
+[[4 -le 5]]
+__vsc_prompt_cmd_original
+[[ 4 -le 5 ]]
