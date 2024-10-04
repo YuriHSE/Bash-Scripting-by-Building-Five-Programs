@@ -238,3 +238,9 @@ help while
 touch bingo.sh
 chmod -r bingo.sh
 chmod +x bingo.sh
+rm bingo.sh
+touch bingo.sh
+help chmod
+man chmod
+__vsc_prompt_cmd_original
+chmod +x bingo.sh
