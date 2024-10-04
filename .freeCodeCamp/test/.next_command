@@ -360,3 +360,4 @@ type then
 type help
 type bash
 type psql
+type ./five.sh
