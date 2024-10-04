@@ -291,3 +291,4 @@ echo $@ ARR
 echo ${ARR[@]}
 declare -p ARR
 echo ${ARR[5]}
+./fortune.sh
