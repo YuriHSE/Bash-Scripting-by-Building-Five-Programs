@@ -236,3 +236,5 @@ help while
 ./countdown 5
 ./countdown.sh 5
 touch bingo.sh
+chmod -r bingo.sh
+chmod +x bingo.sh
