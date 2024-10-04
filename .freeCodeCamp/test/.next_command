@@ -220,3 +220,4 @@ help [[ expression ]]
 help test
 help
 ./countdown.sh 10
+help
