@@ -246,3 +246,5 @@ __vsc_prompt_cmd_original
 chmod +x bingo.sh
 ./bingo.sh
 printenv
+echo LANG
+echo $LANG
