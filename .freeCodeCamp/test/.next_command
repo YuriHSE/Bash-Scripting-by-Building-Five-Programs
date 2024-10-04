@@ -192,3 +192,5 @@ help if
 help
 vNear the top left, it says [[ expression ]]. Those look like the double brackets you are using. See if you can get more info about that with the help command like you did with help i
 help [[ expression ]]
+test help
+help test
