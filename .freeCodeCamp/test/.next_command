@@ -208,3 +208,4 @@ ls --color=auto
 ls --color=auto -y
 test help
 help test
+[[ -a countdown.sh ]]
