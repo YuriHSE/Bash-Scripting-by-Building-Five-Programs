@@ -119,3 +119,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto -l
 ls --color=auto
+ls --color=auto ls -l
+ls --color=auto -l
