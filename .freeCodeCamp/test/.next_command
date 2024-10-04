@@ -136,3 +136,7 @@ echo $QUESTION1
 ./questionnaire.sh
 ./questionnaire.sh
 echo --help
+man ls
+__vsc_prompt_cmd_original
+man echo
+__vsc_prompt_cmd_original
