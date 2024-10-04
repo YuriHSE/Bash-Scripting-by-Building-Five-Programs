@@ -178,3 +178,4 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch countdown.sh
 chmod +x countdown.sh
+./countdown.sh
