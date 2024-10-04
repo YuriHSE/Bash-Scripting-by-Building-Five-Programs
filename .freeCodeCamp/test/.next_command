@@ -293,3 +293,5 @@ declare -p ARR
 echo ${ARR[5]}
 ./fortune.sh
 help
+man function
+help function
