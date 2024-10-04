@@ -133,3 +133,4 @@ echo $QUESTION1
 /.questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
